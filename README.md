@@ -1,10 +1,10 @@
 # Poker Hand Ranking
 
-This folder contains the code in order to create a simple API that returns the poker ranking of a given hand.
+This repo contains the code in order to create a simple API that returns the poker ranking of a given hand.
 
-## Folder Structure
+## Repo Structure
 
-This folder contains the following:
+This repo contains the following:
 - `code`, the folder which contains the ranking and API scripts, as well as corresponding tests;
 - `requirements.txt`, containing all requirements to run code in the `code` folder.
 
@@ -13,7 +13,7 @@ This folder contains the following:
 
 ## Usage
 
-Clone the repo and navigate to the `poker_hand_ranking` folder. Create a Python virtual environment and run `pip install -r requirements.txt` to install required dependencies. Then navigate to the `code` folder.
+Clone the repo. Create a Python virtual environment and run `pip install -r requirements.txt` to install required dependencies. Then navigate to the `code` folder.
 
 To run the tests, run `python ranking_tests.py` or `python api_tests.py`.
 
