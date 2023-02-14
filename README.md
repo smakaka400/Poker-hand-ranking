@@ -27,4 +27,4 @@ You can modify the `data` field to submit different poker hands for ranking.
 
 ## Known Bugs
 
-The API always considers Ace to be a high card, so does not correctly identify straights where the Ace can be used as a low card. This is noted as a TODO in the `ranking.py` script.
+The API always considers Ace to be a high card, so does not correctly identify straights where the Ace can be used as a low card. This is reflected in the unit tests and noted as a TODO in the `ranking.py` script.
